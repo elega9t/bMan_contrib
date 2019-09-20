@@ -1,0 +1,98 @@
+{
+  "ABOUT": {
+    "COPYRIGHT": "Copyright (c) 2011-2019 by Elega9t Ltd.",
+    "SUB_TITLE": "Simple All-in-one CI & CD Manager",
+    "TITLE": "bMan"
+  },
+  "ALERT": {
+    "ANONYMOUS_STATISTICS": "Anonymous usage statistics allows us to improve bMan based on usage patterns. The statistics are completely anonymous.",
+    "BUILD_SCHEDULED": "Build request successfully submitted.",
+    "CONFIRM_RESET": "Are you sure you want to reset settings to defaults?",
+    "CONFIRM_SERVERS_CLEAR": "Are you sure you want to remove all servers?<br>This action cannot be undone.",
+    "CONFIRM_SERVER_REMOVE": "Are you sure you want to remove <b>{{server}}</b>?",
+    "LOADING_BUILDS": "Loading latest build. Please wait...",
+    "NO_BUILDS": "No builds found!!!",
+    "NO_PROJECTS": "There are no projects on this server!",
+    "PLEASE_WAIT": "Please wait...",
+    "SETTINGS_UPDATED": "Settings updated successfully."
+  },
+  "APP_RATING": {
+    "DISPLAY_NAME": "bMan: Simple All-In-One CI & CD Manager",
+    "TITLE": "Do you find bMan helpful?",
+    "MESSAGE": "Would you mind taking time to rate bMan?",
+    "YES_BUTTON_LABEL": "Yes!",
+    "NO_BUTTON_LABEL": "Not really",
+    "CANCEL_BUTTON_LABEL": "No, Thanks",
+    "LATER_BUTTON_LABEL": "Remind Me Later",
+    "RATE_BUTTON_LABEL": "Rate It Now"
+  },
+  "BUTTON": {
+    "ACCEPT": "Accept",
+    "REPORT": "Report",
+    "RESET": "Reset",
+    "SAVE": "Save"
+  },
+  "COUNT": {
+    "10": "10",
+    "20": "20",
+    "30": "30",
+    "50": "50"
+  },
+  "DURATION": {
+    "10_SECONDS": "10 seconds",
+    "15_SECONDS": "15 seconds",
+    "30_SECONDS": "30 seconds",
+    "1_MINUTE": "1 minute",
+    "3_MINUTES": "3 minute",
+    "5_MINUTES": "5 minute",
+    "10_MINUTES": "10 minute"
+  },
+  "LABEL": {
+    "ABOUT": "About",
+    "ADD_EDIT_SERVER": "Add/Edit Server",
+    "ALL": "All",
+    "APP_RATE": "Rate bMan",
+    "BUG_REPORT": "Bug Report",
+    "BUILD": "Build",
+    "BUILD_DETAIL": "Build Detail",
+    "BUILD_HISTORY": "Build History",
+    "BUILD_LOG": "Build Log",
+    "BUILD_MONITOR": "Build Monitor",
+    "BUILD_TOKEN": "Build Token",
+    "CONFIG": "Config",
+    "DESCRIPTION": "Description",
+    "EMAIL": "Email",
+    "ERROR": "Error",
+    "GLOBAL": "Global",
+    "INFO": "Information",
+    "LANGUAGE": "Language",
+    "LICENSE": "License",
+    "LIMITS": "Limits",
+    "NAME": "Name",
+    "PASSWORD": "Password",
+    "PROJECTS": "Projects",
+    "REFRESH_INTERVAL": "Refresh Interval",
+    "RESET_SETTINGS": "Reset Settings",
+    "RESET_TO_DEFAULTS": "Reset to default settings",
+    "SERVERS": "Servers",
+    "SETTINGS": "Settings",
+    "SHARE_STATISTICS": "Share anonymous usage statistics",
+    "STATISTICS": "Statistics",
+    "SUMMARY": "Summary",
+    "SUPPORTED_CI_SERVERS": "Supported CI & CD Servers",
+    "TYPE": "Type",
+    "URL": "URL",
+    "USER": "User",
+    "WARN": "Warning"
+  },
+  "PLACEHOLDER": {
+    "BUG_REPORT_DESCRIPTION": "Please describe the bug and how we could reproduce it",
+    "BUG_REPORT_SUMMARY": "A brief 1-line summary",
+    "CI_SERVER_DESCRIPTION": "My CI server description",
+    "EMAIL": "Your email address",
+    "SERVER_NAME": "My CI server",
+    "SERVER_PASSWORD": "password",
+    "SERVER_URL": "http://ci.server.com",
+    "SERVER_USERNAME": "username"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "ABOUT": {
+    "COPYRIGHT": "Copyright (c) 2011-2019 by Elega9t Ltd.",
+    "SUB_TITLE": "Simple All-in-one CI & CD Manager",
+    "TITLE": "bMan"
+  },
+  "ALERT": {
+    "ANONYMOUS_STATISTICS": "Anonymous usage statistics allows us to improve bMan based on usage patterns. The statistics are completely anonymous.",
+    "BUILD_SCHEDULED": "建立请求成功提交。",
+    "CONFIRM_RESET": "Are you sure you want to reset settings to defaults?",
+    "CONFIRM_SERVERS_CLEAR": "您确定要删除所有服务器吗?<br>此操作无法撤消。",
+    "CONFIRM_SERVER_REMOVE": "你确定要删除吗 <b>{{server}}</b>?",
+    "LOADING_BUILDS": "加载最新版本。请耐心等待...",
+    "NO_BUILDS": "找不到构建!!!",
+    "NO_PROJECTS": "这台服务器上没有项目！",
+    "PLEASE_WAIT": "请耐心等待...",
+    "SETTINGS_UPDATED": "设置已成功更新。"
+  },
+  "APP_RATING": {
+    "DISPLAY_NAME": "bMan: All-In-One CI & CD Manager",
+    "TITLE": "Do you find bMan helpful?",
+    "MESSAGE": "Would you mind taking time to rate bMan?",
+    "YES_BUTTON_LABEL": "Yes!",
+    "NO_BUTTON_LABEL": "Not really",
+    "CANCEL_BUTTON_LABEL": "No, Thanks",
+    "LATER_BUTTON_LABEL": "Remind Me Later",
+    "RATE_BUTTON_LABEL": "Rate It Now"
+  },
+  "BUTTON": {
+    "ACCEPT": "Accept",
+    "REPORT": "Report",
+    "RESET": "Reset",
+    "SAVE": "保存"
+  },
+  "COUNT": {
+    "10": "10",
+    "20": "20",
+    "30": "30",
+    "50": "50"
+  },
+  "DURATION": {
+    "10_SECONDS": "10 seconds",
+    "15_SECONDS": "15 seconds",
+    "30_SECONDS": "30 seconds",
+    "1_MINUTE": "1 minute",
+    "3_MINUTES": "3 minute",
+    "5_MINUTES": "5 minute",
+    "10_MINUTES": "10 minute"
+  },
+  "LABEL": {
+    "ABOUT": "关于",
+    "ADD_EDIT_SERVER": "Add/Edit Server",
+    "ALL": "所有",
+    "APP_RATE": "Rate bMan",
+    "BUG_REPORT": "Bug Report",
+    "BUILD": "建立",
+    "BUILD_DETAIL": "构建细节",
+    "BUILD_HISTORY": "建立历史",
+    "BUILD_LOG": "构建日志",
+    "BUILD_MONITOR": "建立 Monitor",
+    "BUILD_TOKEN": "Build Token",
+    "CONFIG": "Config",
+    "DESCRIPTION": "描述",
+    "EMAIL": "Email",
+    "ERROR": "错误",
+    "GLOBAL": "全球",
+    "INFO": "信息",
+    "LANGUAGE": "语言",
+    "LICENSE": "License",
+    "LIMITS": "Limits",
+    "NAME": "名称",
+    "PASSWORD": "密码",
+    "PROJECTS": "Projects",
+    "REFRESH_INTERVAL": "Refresh Interval",
+    "RESET_SETTINGS": "Reset Settings",
+    "RESET_TO_DEFAULTS": "Reset to default settings",
+    "SERVERS": "Servers",
+    "SETTINGS": "设置",
+    "SHARE_STATISTICS": "Share Anonymous Statistics",
+    "STATISTICS": "Statistics",
+    "SUMMARY": "Summary",
+    "SUPPORTED_CI_SERVERS": "支持的 CI & CD Servers",
+    "TYPE": "类型",
+    "URL": "URL",
+    "USER": "用户 名称",
+    "WARN": "警告"
+  },
+  "PLACEHOLDER": {
+    "BUG_REPORT_DESCRIPTION": "Please describe the bug and how we could reproduce it",
+    "BUG_REPORT_SUMMARY": "A brief 1-line summary",
+    "CI_SERVER_DESCRIPTION": "My CI server description",
+    "EMAIL": "Your email address",
+    "SERVER_NAME": "My CI server",
+    "SERVER_PASSWORD": "密码",
+    "SERVER_URL": "http://ci.server.com",
+    "SERVER_USERNAME": "用户"
+  }
+}

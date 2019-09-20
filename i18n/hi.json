@@ -1,0 +1,98 @@
+{
+  "ABOUT": {
+    "COPYRIGHT": "कॉपीराइट (सी) २०११-२०१९ Elega9t Ltd द्वारा।",
+    "SUB_TITLE": "सरल All-in-one CI और CD प्रबंधक",
+    "TITLE": "बी.मैन"
+  },
+  "ALERT": {
+    "ANONYMOUS_STATISTICS": "बेनामी उपयोग के अंक-विवरन हमें उपयोग पैटर्न के आधार पर बी.मैन में सुधार करने की अनुमति देते हैं। आँकड़े पूरी तरह से बेनाम हैं।",
+    "BUILD_SCHEDULED": "निर्माण अनुरोध सफलतापूर्वक जमा किया गया।",
+    "CONFIRM_RESET": "क्या आप वाकई सेटिंग को डिफॉल्ट करने के लिए रीसेट करना चाहते हैं?",
+    "CONFIRM_SERVERS_CLEAR": "क्या आप वाकई सभी परिसेवकों को हटाना चाहते हैं?<br>यह कार्य उलटा नहीं हो सकता।",
+    "CONFIRM_SERVER_REMOVE": "क्या आप वाकई <b>{{server}}</b> को हटाना चाहते हैं?",
+    "LOADING_BUILDS": "नवीनतम निर्माण लोड हो रहा है। कृपया प्रतीक्षा करें...",
+    "NO_BUILDS": "कोई बिल्ड नहीं मिला!!!",
+    "NO_PROJECTS": "इस परिसेवक पर परियोजनाएं नहीं है!",
+    "PLEASE_WAIT": "कृपया प्रतीक्षा करें...",
+    "SETTINGS_UPDATED": "सेटिंग सफलतापूर्वक अपडेट की गई।"
+  },
+  "APP_RATING": {
+    "DISPLAY_NAME": "bMan: सरल All-In-One CI और CD प्रबंधक",
+    "TITLE": "क्या आपको बी.मैन सहायक लगता है?",
+    "MESSAGE": "क्या आप बी.मैन की दर लगाने का समय निकालेंगे?",
+    "YES_BUTTON_LABEL": "हाँ!",
+    "NO_BUTTON_LABEL": "नहीं",
+    "CANCEL_BUTTON_LABEL": "नहीं, धन्यवाद",
+    "LATER_BUTTON_LABEL": "मुझे बाद में याद दिलाना",
+    "RATE_BUTTON_LABEL": "अब दर लगाएँ"
+  },
+  "BUTTON": {
+    "ACCEPT": "स्वीकार करें",
+    "REPORT": "विवरण",
+    "RESET": "रीसेट",
+    "SAVE": "बचाएँ"
+  },
+  "COUNT": {
+    "10": "१०",
+    "20": "२०",
+    "30": "३०",
+    "50": "५०"
+  },
+  "DURATION": {
+    "10_SECONDS": "१० पल",
+    "15_SECONDS": "१5 पल",
+    "30_SECONDS": "३० पल",
+    "1_MINUTE": "१ क्षण",
+    "3_MINUTES": "३ क्षण",
+    "5_MINUTES": "५ क्षण",
+    "10_MINUTES": "१० क्षण"
+  },
+  "LABEL": {
+    "ABOUT": "बारे में",
+    "ADD_EDIT_SERVER": "परिसेवक जोड़ें/हटाएँ",
+    "ALL": "सारे",
+    "APP_RATE": "बी.मैन की दर लगाने",
+    "BUG_REPORT": "दोष विवरण",
+    "BUILD": "निर्माण",
+    "BUILD_DETAIL": "निर्माण विस्तार",
+    "BUILD_HISTORY": "निर्माण इतिहास",
+    "BUILD_LOG": "निर्माण Log",
+    "BUILD_MONITOR": "निर्माण नजर",
+    "BUILD_TOKEN": "निर्माण टोकन",
+    "CONFIG": "व्यवस्था का प्रारूप",
+    "DESCRIPTION": "विवरण",
+    "EMAIL": "ईमेल",
+    "ERROR": "त्रुटि",
+    "GLOBAL": "वैश्विक",
+    "INFO": "जानकारी",
+    "LANGUAGE": "भाषा",
+    "LICENSE": "लाइसेंस",
+    "LIMITS": "सीमाएं",
+    "NAME": "नाम",
+    "PASSWORD": "पारण शब्द",
+    "PROJECTS": "परियोजनाएं",
+    "REFRESH_INTERVAL": "ताजा अंतराल",
+    "RESET_SETTINGS": "सेटिंग्स को रीसेट करें",
+    "RESET_TO_DEFAULTS": "डिफ़ॉल्ट सेटिंग्स पर रीसेट करें",
+    "SERVERS": "परिसेवक",
+    "SETTINGS": "समायोजन",
+    "SHARE_STATISTICS": "बेनामी अंक-विवरन शेयर करें",
+    "STATISTICS": "अंक-विवरन",
+    "SUMMARY": "सारांश",
+    "SUPPORTED_CI_SERVERS": "समर्थित CI और CD सर्वर",
+    "TYPE": "प्रकार",
+    "URL": "यू.आर.एल",
+    "USER": "उपयोगकर्ता",
+    "WARN": "चेतना"
+  },
+  "PLACEHOLDER": {
+    "BUG_REPORT_DESCRIPTION": "कृपया बग का वर्णन करें और हम इसे कैसे पुन: पैदा कर सकते हैं?",
+    "BUG_REPORT_SUMMARY": "संक्षिप्त १-पंक्ति सारांश",
+    "CI_SERVER_DESCRIPTION": "मेरे CI सर्वर का विवरण",
+    "EMAIL": "आपका ईमेल",
+    "SERVER_NAME": "मेरा CI सर्वर",
+    "SERVER_PASSWORD": "पारण शब्द",
+    "SERVER_URL": "http://ci.server.com",
+    "SERVER_USERNAME": "उपयोगकर्ता का नाम"
+  }
+}
